@@ -1,6 +1,6 @@
 ## go-shortener
 
-A super fast URL shortener written in Go
+A super fast URL shortener and redirect tool written in Go
         
                                                                                    _
                                                                                   /_\
